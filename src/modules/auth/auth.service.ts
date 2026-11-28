@@ -1,3 +1,4 @@
+import type { RegisterData } from "./auth.schema";
 
 
 export const authService = {
